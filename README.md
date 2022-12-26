@@ -32,18 +32,11 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 - [x] Lihat Hasil Crack
 <h5 align="left">TAMPILAN MENU:</h5>
 
-![IMG_20221104_175651](https://raw.githubusercontent.com/ncek-XD/IGC/main/IMG_20221126_162531.jpg)
-
-<h5 align="left">LOGIN COOKIE :</h5>
-
-![IMG_20221104_175638](https://raw.githubusercontent.com/ncek-XD/IGC/main/Screenshot_2022-11-26-16-19-30-789_com.termux.jpg)
-
-
-- Notice me: ```Jika belum tau cara mendapatkan cookie Instagram``` <a href="https://youtu.be/VrGZdY5L19k">klik disini</a>
+![IMG_20221104_175651](https://github.com/ncek-XD/FBN/blob/main/assets/Screenshot_2022-12-26-13-37-29-822_ru.iiec.pydroid3.jpg)
 
 <h5 align="left">RESULT CRACK:</h5>
 
-![IMG_20221104_175714](https://raw.githubusercontent.com/ncek-XD/IGC/main/IMG-20221125-WA0060.jpg)
+![IMG_20221104_175714](https://github.com/ncek-XD/FBN/blob/main/assets/Screenshot_2022-12-26-12-12-01-168_com.termux.jpg)
 
 - Notice me: ```Hasil crack fb banyak atau sedikit nya tergantung target yang di dapatkan.```
 
