@@ -13,7 +13,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $pip install bs4
     $pip install rich
     $cd FBN
-    $python FBN.py
+    $python fbn.py
 
 
 <h5 align="left">MENJALANKAN SCRIPT:</h5>
