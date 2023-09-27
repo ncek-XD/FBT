@@ -14,6 +14,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
     $pip install rich
     $pip install inquirer
     $pip install fake_useragent
+    $pip install pystyle
     $cd FBN
     $python fbn.py
 
