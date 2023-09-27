@@ -39,7 +39,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 
 <h5 align="left">RESULT CRACK:</h5>
 
-![IMG_20221104_175714](https://raw.githubusercontent.com/ncek-XD/FBN/main/assets/Screenshot_20230927-151712_Termux.png)
+<img src="https://raw.githubusercontent.com/ncek-XD/FBN/main/assets/Screenshot_20230927-151712_Termux.png" width=50% height=50%>
 
 - Notice me: ```Hasil crack fb banyak atau sedikit nya tergantung target yang di dapatkan.```
 
