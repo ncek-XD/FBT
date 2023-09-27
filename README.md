@@ -36,7 +36,7 @@ download aplikasi termux di playstore atau <a href="https://f-droid.org/repo/com
 - [x] Lihat Hasil Crack
 <h5 align="left">TAMPILAN MENU:</h5>
 
-![IMG_20221104_175651]([https://github.com/ncek-XD/FBN/blob/main/assets/Screenshot_2022-12-26-13-37-29-822_ru.iiec.pydroid3.jpg](https://github.com/ncek-XD/FBN/blob/main/assets/Screenshot_20230927-230209_Termux.png](https://github.com/ncek-XD/FBN/blob/main/assets/Screenshot_20230927-230209_Termux.png))
+![IMG_20221104_175651](https://raw.githubusercontent.com/ncek-XD/FBN/main/assets/Screenshot_20230927-230209_Termux.png)
 
 <h5 align="left">RESULT CRACK:</h5>
 
